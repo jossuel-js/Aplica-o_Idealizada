@@ -1,0 +1,17 @@
+.object-fit-cover {
+    object-fit: cover;
+  }
+
+ 
+  
+  
+  /* CSS para dispositivos móveis */
+  @media (max-width: 768px) {
+    .img-fluid {
+      margin-top:70px; /* Ajuste este valor conforme necessário para corresponder à altura da sua barra de navegação */
+    }
+  }
+  .btn-lg {
+   /* Ajuste o padding conforme necessário */
+    font-size: 24px; /* Ajuste o tamanho da fonte conforme necessário */
+  }
