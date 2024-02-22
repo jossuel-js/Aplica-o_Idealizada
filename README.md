@@ -71,5 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Aplica-o_Idealizada
 
 <h1>Colaboradores:</h1>
+<<<<<<< HEAD
 - Gabriel Oliveira
 - Antonio Hamilton
+=======
+<ul>
+    <li>Gabriel Oliveira</li>
+    <li>Antonio Hamilton</li>
+</ul>
+>>>>>>> 034677e (Add List of Collaborators)
