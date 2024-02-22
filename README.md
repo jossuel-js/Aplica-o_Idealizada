@@ -77,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 </ul>
 
 # Artefatos
-O que é a nossa aplicação e para que serve? Encontre uma breve descrição <a href="https://www.figma.com/file/xom95QaYPuCjhCd3bAvXfv/CAMPEIO?type=design&node-id=0-1&mode=design&t=FedB0yHXG55mcFUl-0">aqui</a>
+O que é a nossa aplicação e para que serve? Encontre uma breve descrição <a href="https://whimsical.com/campeio-atualizado-YNoY945KChM3aD3h4DqkFj">aqui</a>
